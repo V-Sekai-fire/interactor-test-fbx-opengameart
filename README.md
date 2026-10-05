@@ -4,7 +4,7 @@ Public-domain test models in `.fbx` form from a free game-art archive, each with
 
 ## Use
 
-Each directory is named for an asset's author. A model ships as `.fbx` beside gzipped `.obj` snapshots of its mesh, some taken at named animation frames. A `.json` file records each asset's title, author, source page and licence.
+Models are grouped in directories, most of them named for the asset's author. A model ships as `.fbx` beside gzipped `.obj` snapshots of its mesh, some taken at named animation frames. A `.json` file records each asset's title, author, source page and licence.
 
 ## Build and run
 
