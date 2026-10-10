@@ -12,4 +12,4 @@ Nothing here builds. The files are test data.
 
 ## Licence
 
-Every asset is CC0 1.0, as its `.json` record states. The repository states no licence of its own.
+CC0 1.0. See [LICENSE](LICENSE). Every asset is CC0 1.0, as its `.json` record states.
